@@ -148,7 +148,8 @@ coeff_df
 
 
 predictions = lm.predict(X_test)
-
+predictions
+y_test
 
 # In[37]:
 
